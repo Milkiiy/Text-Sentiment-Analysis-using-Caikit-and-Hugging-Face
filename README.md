@@ -22,9 +22,11 @@ Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of N
 ## Output ⭐
 
 Positive Output : 
+
 ![81f90302-6847-4aae-abd2-ca3a960dcb6a](https://github.com/Milkiiy/Text-Sentiment-Analysis-using-Caikit-and-Hugging-Face/assets/114728966/15f58cc4-bf68-4fe4-8e81-0cda2cc33fe5)<br />
 
 Negative Output :
+
 ![af2c8f5a-0206-4a01-9770-3801cbfa5d19](https://github.com/Milkiiy/Text-Sentiment-Analysis-using-Caikit-and-Hugging-Face/assets/114728966/569bc0c9-3797-4b9d-bf49-bbd41ce39845)<br />
 
 ## Tech Stack 💻
