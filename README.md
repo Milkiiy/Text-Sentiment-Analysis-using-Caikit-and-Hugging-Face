@@ -31,5 +31,5 @@ Negative Output :
 
 ## Tech Stack 💻
 - Python
-- Jupyter Notebook
+- Caikit
 - Hugging Face Transformers
